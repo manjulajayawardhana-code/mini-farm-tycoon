@@ -1,0 +1,27 @@
+MINI FARM TYCOON — FACEBOOK INSTANT GAMES STARTER PACKAGE
+
+WHAT IS INCLUDED
+- index.html: the current playable HTML5 farm prototype, with a basic Facebook Instant Games SDK bootstrap.
+- The game is free to test in a normal browser.
+
+IMPORTANT LIMITATIONS
+- This is a starter/test build, not a guarantee of Facebook approval or public launch.
+- Live ads are NOT integrated. The daily bonus is an in-game simulated reward, not an advertisement.
+- No real-money payments, cloud saves, accounts, or server backend are connected.
+- Publishing and ad monetization depend on Meta account/app eligibility, review, policy compliance, and any current partner requirements. Revenue is not guaranteed.
+
+PUBLISHING STEPS
+1. Sign in to Meta for Developers with your own account: https://developers.facebook.com/
+2. Create an app and add/configure the Instant Games product if it is available to your account.
+3. Open Instant Games > Web Hosting and upload a ZIP containing index.html at the ZIP root.
+4. Test the hosted build using the dashboard's test/production controls.
+5. Complete all requested app details, business/account checks, privacy disclosures, and reviews. Submit for review only when the build is complete.
+6. After the game is approved and launch is enabled, follow Meta's current Games Ads/monetization setup and approval process before expecting ad revenue.
+
+ZERO-UPFRONT NOTE
+The development package can be created with free tools, but Meta may require account verification, eligibility, review, tax/payout information, and additional setup. I cannot sign in or publish through your account on your behalf. Do not share your password or access tokens with anyone.
+
+Official starting points
+- Meta Instant Games developer entry: https://www.facebook.com/fbgaminghome/developers/get-started
+- Facebook Instant Games SDK samples: https://github.com/fbsamples/fbinstant-samples
+- Meta game monetization overview: https://business.facebook.com/audiencenetwork/monetize/gaming
